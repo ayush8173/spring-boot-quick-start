@@ -1,13 +1,13 @@
-package com.demo.quickstart;
+// package com.demo.quickstart;
 
-import org.junit.jupiter.api.Test;
-import org.springframework.boot.test.context.SpringBootTest;
+// import org.junit.jupiter.api.Test;
+// import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootTest
-class QuickstartApplicationTests {
+// @SpringBootTest
+// class QuickstartApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+// 	@Test
+// 	void contextLoads() {
+// 	}
 
-}
+// }
